@@ -1,21 +1,31 @@
-# Titanic Survival Prediction 🚢
+# 🚢 Titanic Survival Prediction
 
-## 📌 Objective
-Predict whether a passenger survived the Titanic disaster based on features like age, sex, class, etc.
+This project predicts whether a passenger survived the Titanic disaster using machine learning.
 
-## 📂 Dataset
-- Kaggle Titanic Dataset: [Link](https://www.kaggle.com/c/titanic/data)
+## 📊 Dataset
+- Source: seaborn’s built-in Titanic dataset (similar to Kaggle)
 
-## 🧪 What I Did
-- Performed EDA with visualizations
-- Cleaned data and handled missing values
-- Converted categorical features using encoding
-- Built Logistic Regression and Random Forest models
-- Achieved ~XX% accuracy (update this!)
+## 🔍 What’s in the Notebook:
+- Exploratory Data Analysis (EDA)
+- Feature encoding
+- Random Forest model training
+- Accuracy evaluation & confusion matrix
+- Feature importance chart
 
-## 📊 Final Result
-Confusion matrix and classification report included in notebook.
+## 🧠 ML Concepts Used:
+- Data cleaning
+- Label Encoding
+- Train-Test Split
+- Random Forest Classifier
+- Model Evaluation
 
-## 📎 Open in Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](PASTE_YOUR_COLAB_LINK_HERE)
+## 📈 Final Accuracy:
+> ~85% on test set
+
+## 🧪 Open in Google Colab:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+
+> Replace the above link with your actual Colab link after uploading it.
+
+
 
