@@ -34,15 +34,7 @@ The dataset is a combination of:
   - Fake correctly predicted: 4658
 - **Precision / Recall / F1-score**: Excellent across both classes
 
----
 
-## 📊 Sample Graphs
-
-| Real vs Fake News Distribution | Confusion Matrix |
-|-------------------------------|------------------|
-| ![Class Distribution](e2c7b122-5a72-45aa-a759-ad5aba14d33a.png) | ![Confusion Matrix](5c10d246-6649-43d1-aa97-d5c10eed3793.png) |
-
----
 
 ## 🚀 Future Improvements
 
