@@ -47,7 +47,7 @@ The dataset is a combination of:
 | File | Description |
 |------|-------------|
 | `Fake_News_Detection.ipynb` | Main notebook with full training, evaluation, and visualizations |
-| `README.md` | You're reading it 😊 |
+| `README.md` | You're reading it |
 
 ---
 
