@@ -14,8 +14,6 @@ The dataset is a combination of:
 
 
 
----
-
 ## 📈 Project Highlights
 
 - ✅ Dataset Preprocessing (merging, labeling, shuffling)
@@ -41,6 +39,18 @@ The dataset is a combination of:
 - Export trained model as `.pkl` or `.joblib`
 - Add GUI using **Streamlit**
 - Experiment with models like **Logistic Regression**, **Random Forest**, or **BERT**
+
+---
+
+## 📁 Files in This Repository
+
+| File | Description |
+|------|-------------|
+| `Fake_News_Detection.ipynb` | Main notebook with full training, evaluation, and visualizations |
+| `README.md` | You're reading it 😊 |
+
+---
+
 
 
 Feel free to ⭐ star the repo if you find it useful!
